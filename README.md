@@ -1,2 +1,3 @@
 # Go-Tour
-Solution to go tour exercises 
+My solutions to the Tour of Go exercises
+https://tour.golang.org/ 
